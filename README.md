@@ -1,4 +1,4 @@
-# Network-Anomaly-Detection-System-Project-Machine-Learning-Project
+# Network AnomalyDetection System Project Machine Learning Project
 The Network Anomaly Detection System (NADS) Using Machine Learning With Code Documents And Video Tutorial
 
 ![Network Anomaly](https://github.com/user-attachments/assets/90c5bf4b-fefe-44cd-b141-67779115e3d9)
